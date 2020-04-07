@@ -1,1 +1,1 @@
-anysize amsmath amssymb graphicx color verbatim hyperref latexsym mdwlist tabularx geometry 
+ anysize amsmath amssymb graphicx color verbatim hyperref latexsym mdwlist tabularx geometry 
